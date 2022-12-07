@@ -1,0 +1,98 @@
+.label{
+    -fx-font-size: 20;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+}
+.anchorPane{
+    -fx-background-color: #302F2F;
+}
+#text{
+    -fx-text-fill: white;
+}
+#information{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+}
+#tableColumn{
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: center;
+    -fx-background-color: #202020;
+}
+
+.button{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+    -fx-background-color: #202020;
+}
+.table-view{
+    -fx-font-size: 10;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+    -fx-background-color: #202020;
+
+
+}
+.table-view .virtual-flow .scroll-bar:vertical,
+.table-view .virtual-flow .scroll-bar:vertical .track,
+.table-view .virtual-flow .scroll-bar:vertical .track-background,
+.table-view .virtual-flow .scroll-bar:horizontal,
+.table-view .virtual-flow .scroll-bar:horizontal .track,
+.table-view .virtual-flow .scroll-bar:horizontal .track-background {
+    -fx-background-color: transparent;
+
+
+}
+.radio-button{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+}
+#radio-anchor{
+    -fx-background-color: #202020;
+}
+#radio-desc{
+    -fx-font-size: 15;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: justify;
+}
+
+.text-area#sample-output{
+    -fx-font-size: 18;
+    -fx-text-fill: black;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+    -fx-background-color: #202020;
+}
+#business-input{
+    -fx-font-size: 12;
+    -fx-text-fill: white;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+    -fx-background-color: #202020;
+}
+.hyperlink{
+    -fx-font-size: 12;
+    -fx-text-fill: cyan;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+}
+#failedErrorMessage{
+    -fx-font-size: 15;
+    -fx-text-fill: red;
+    -fx-font-family: 'monospace';
+    -fx-text-alignment: left;
+}
+
+
+
+
+
+
+
